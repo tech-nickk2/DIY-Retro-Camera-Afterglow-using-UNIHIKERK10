@@ -2,7 +2,9 @@
 
 Retro camera firmware for the DFRobot UNIHIKER K10: film rolls you wind by hand, a darkroom that develops each shot, instant prints, and Super 8 / camcorder video.
 
-<img width="1920" height="1080" alt="DIY Retro Camera (Afterglow)-Cover" src="https://github.com/user-attachments/assets/b0025a69-779a-4279-aa58-fd6eea336ddb" />
+▶️ **[Click here to watch the DIY Retro Camera video on YouTube](https://youtu.be/rEtMDax1rDs)** 
+
+[![DIY Retro Camera (Afterglow)](https://img.youtube.com/vi/rEtMDax1rDs/maxresdefault.jpg)](https://youtu.be/rEtMDax1rDs)
 
 <img width="4000" height="3000" alt="20261022_170730" src="https://github.com/user-attachments/assets/136f364f-b48a-43f6-8a94-a314696d1c3e" />
 
